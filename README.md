@@ -5,4 +5,4 @@ DOI: https://doi.org/10.3390/app10228083 </br>
 URL: https://www.mdpi.com/2076-3417/10/22/8083 </br>
 Official Contest Result: https://phdvoice.org/graphical-abstract-competition/graphical-abstract-competition-voting/ </br>
 ___
-<img align="left" alt="PNG" src="https://www.mdpi.com/applsci/applsci-10-08083/article_deploy/html/images/applsci-10-08083-ag.png" />
+<img src="https://github.com/wagle1996/Multi-temporal-Landcover-mapping/blob/main/applsci-10-08083-ag.png" width="auto" height="auto">
